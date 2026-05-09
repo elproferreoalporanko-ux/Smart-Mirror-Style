@@ -1,4 +1,4 @@
-# Smart-Mirror-Style
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
