@@ -1,0 +1,31 @@
+¡Perfecto! Voy a crear una app web completa con captura de cámara en tiempo real e IA básica que recomiende ropa. 🪞👔
+
+Aquí va el código completo:¡Listo! 🎉 Acabo de crear tu **Espejo Inteligente con IA básica** en tu repositorio. 
+
+## 📁 Archivos creados:
+
+1. **index.html** - Estructura completa
+2. **style.css** - Diseño bonito y moderno
+3. **script.js** - Lógica con IA básica
+
+## ✨ Funcionalidades incluidas:
+
+✅ **Captura en tiempo real** - Acceso a la cámara web  
+✅ **Recomendación de outfits** - Combina prendas por ocasión  
+✅ **Cuidados textiles** - Instrucciones para cada tipo de tela  
+✅ **Consejos de estilo** - Tips para vestirse bien  
+✅ **Interfaz en español** - Todo en tu idioma  
+✅ **Diseño moderno** - Gradientes purpura y blanco  
+
+## 🚀 Cómo usar:
+
+1. Abre el archivo `index.html` en tu navegador
+2. Click en "📹 Iniciar Cámara"
+3. Click en "📸 Capturar Foto"
+4. ¡Recibirás recomendaciones de ropa y cuidados textiles!
+
+## 🔮 Próximos pasos (opcional):
+
+Cuando quieras integrar **IA real** (OpenAI o Google Vision) para análisis automático de ropa, me avisa y lo agregamos. Por ahora funciona con IA básica pero puedes usarlo para probar. 
+
+¿Te funciona? ¿Quieres que le agregue más cosas? 💪
